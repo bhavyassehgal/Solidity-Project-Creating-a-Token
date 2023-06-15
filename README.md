@@ -20,10 +20,10 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
   * Copy and paste the Smart Contract code provided into the newly created MyToken.sol file.
 
 3. Compile the smart contract
-  1. Go to the Solidity Compiler tab (below the search button).
-  2. Select compiler version to 0.5.10.
-  3. Now, compile MyToken.sol.
-  4. After successful compilation, it will show a green tick mark on the Compiler tab button.
+   1. Go to the Solidity Compiler tab (below the search button).
+   2. Select compiler version to 0.5.10.
+   3. Now, compile MyToken.sol.
+   4. After successful compilation, it will show a green tick mark on the Compiler tab button.
 
 4. Deploy the smart contract
  * Once MetaMask is connected to Remix, the Deploy transaction would generate another MetaMask popup that requires transaction confirmation. Simply confirm the transaction!
